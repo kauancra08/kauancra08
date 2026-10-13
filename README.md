@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Kauan Costa 👋
+# Olá, eu sou o Kauan Costa Dev 👋
 ### Desenvolvedor Back-end Java | Spring Boot & REST APIs
 
 <p align="center">
