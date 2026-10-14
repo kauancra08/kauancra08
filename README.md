@@ -7,17 +7,10 @@
 
 ---
 
-### 🚀 Projeto em Destaque
-
-* **[Projeto Spring AI](https://github.com/kauancra08/projeto-spring-ai)**  
-  API inteligente de gestão financeira capaz de processar comandos de voz e texto. Utiliza **Spring AI (v2.0)** com **Whisper** para transcrição (STT), **GPT-4o-mini** com **Tool Calling** para execução determinística de regras de negócio, persistência via JPA e síntese de voz (TTS) para retorno falado. Construído com Clean Architecture e testes automatizados (JUnit 5 + Mockito).
-
----
-
 ### 💻 Stack & Tecnologias
 
 - **Backend:** Java, Spring Boot, Spring Data JPA, Spring AI, Hibernate, REST APIs.
-- **Banco de Dados:** PostgreSQL, MySQL, H2 Database, modelagem relacional e SQL.
+- **Banco de Dados:** PostgreSQL, MySQL, MongoDB, modelagem relacional e SQL.
 - **Testes & Qualidade:** JUnit 5, Mockito, AssertJ, MockMvc, Clean Code e princípios SOLID.
 - **DevOps & Ferramentas:** Docker, Docker Compose, Git, GitHub, Maven, Gradle, Postman.
 
