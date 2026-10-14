@@ -20,7 +20,7 @@
 
 - 🎯 Desenvolvendo serviços backend com separação clara de responsabilidades e código testável.
 - 🧪 Foco em testes unitários e de integração para garantir estabilidade e previsibilidade em produção.
-- 🤖 Estudando a evolução do **Spring AI** e como plugar modelos de linguagem em fluxos corporativos reais via *Function Calling* sem acoplamento.
+- 🤖 Explorando o ecossistema Spring AI e a integração de LLMs em fluxos corporativos reais via Function Calling desacoplado.
 
 ---
 
